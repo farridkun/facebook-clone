@@ -1,5 +1,5 @@
 ## Facebook Clone
-it's a clone facebook with minors features, this is made for learning and knowing about ReactJS.
+it's a clone facebook with tiny features, this is made for learning and knowing about ReactJS.
 
 INSIDER TECH :
 
